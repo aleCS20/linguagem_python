@@ -1,0 +1,2 @@
+Se digitarmos valores iguais, nada será impresso por motivo
+do programa não ter essa condição para valores iguais
